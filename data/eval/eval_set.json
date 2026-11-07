@@ -1,0 +1,154 @@
+[
+ {
+  "query": "Someone snatched my phone on the road and ran away",
+  "expected_category": "theft_robbery",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "390"
+   ],
+   [
+    "Penal Code 1860",
+    "392"
+   ]
+  ]
+ },
+ {
+  "query": "আমার মোবাইল চুরি হয়েছে",
+  "expected_category": "theft_robbery",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "379"
+   ]
+  ]
+ },
+ {
+  "query": "My neighbour beat me up and I have injuries",
+  "expected_category": "assault_hurt",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "323"
+   ]
+  ]
+ },
+ {
+  "query": "He threatened to kill me over the phone",
+  "expected_category": "threat_intimidation",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "506"
+   ]
+  ]
+ },
+ {
+  "query": "Police arrested my brother and did not tell us why, he was not produced before a magistrate",
+  "expected_category": "illegal_arrest_police",
+  "expected_sections": [
+   [
+    "Constitution of Bangladesh",
+    "33"
+   ]
+  ]
+ },
+ {
+  "query": "My husband's family demands dowry and tortures me",
+  "expected_category": "dowry_domestic_violence",
+  "expected_sections": [
+   [
+    "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+    "11"
+   ]
+  ]
+ },
+ {
+  "query": "A man touched me inappropriately in the bus",
+  "expected_category": "sexual_harassment_women",
+  "expected_sections": [
+   [
+    "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+    "10"
+   ],
+   [
+    "Penal Code 1860",
+    "354"
+   ]
+  ]
+ },
+ {
+  "query": "Someone cheated me by taking money for a fake job abroad",
+  "expected_category": "fraud_cheating",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "420"
+   ]
+  ]
+ },
+ {
+  "query": "Someone posted my private photos on Facebook",
+  "expected_category": "cyber_crime",
+  "expected_sections": [
+   [
+    "Cyber Security Act 2023",
+    "General"
+   ]
+  ]
+ },
+ {
+  "query": "Neighbour illegally occupied my land",
+  "expected_category": "land_property_dispute",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "447"
+   ]
+  ]
+ },
+ {
+  "query": "My employer did not pay my salary for three months",
+  "expected_category": "labour_dispute",
+  "expected_sections": [
+   [
+    "Bangladesh Labour Act 2006",
+    "General"
+   ]
+  ]
+ },
+ {
+  "query": "Someone is spreading false rumours defaming me",
+  "expected_category": "defamation",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "500"
+   ]
+  ]
+ },
+ {
+  "query": "আমাকে হুমকি দিচ্ছে এবং চাঁদা চাইছে",
+  "expected_category": "threat_intimidation",
+  "expected_sections": [
+   [
+    "Penal Code 1860",
+    "503"
+   ]
+  ]
+ },
+ {
+  "query": "পুলিশ আমার ছেলেকে গ্রেপ্তার করে ২৪ ঘণ্টার বেশি আটকে রেখেছে",
+  "expected_category": "illegal_arrest_police",
+  "expected_sections": [
+   [
+    "Constitution of Bangladesh",
+    "33"
+   ],
+   [
+    "Code of Criminal Procedure 1898",
+    "61"
+   ]
+  ]
+ }
+]

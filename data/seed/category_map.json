@@ -1,0 +1,874 @@
+{
+ "categories": {
+  "theft_robbery": {
+   "label": "Theft / Robbery / Snatching",
+   "kw_en": [
+    "stole",
+    "stolen",
+    "theft",
+    "thief",
+    "snatch",
+    "snatched",
+    "robbed",
+    "robbery",
+    "pickpocket",
+    "burglary",
+    "looted",
+    "dacoity",
+    "mugged",
+    "phone was taken",
+    "bag was taken"
+   ],
+   "kw_bn": [
+    "চুরি",
+    "ছিনতাই",
+    "ডাকাতি",
+    "লুট",
+    "মোবাইল ছিনিয়ে",
+    "পকেটমার"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "378"
+    ],
+    [
+     "Penal Code 1860",
+     "379"
+    ],
+    [
+     "Penal Code 1860",
+     "390"
+    ],
+    [
+     "Penal Code 1860",
+     "392"
+    ],
+    [
+     "Penal Code 1860",
+     "395"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer. Mention the time, place and description of the item (for a phone: IMEI number).",
+    "If a phone or SIM was taken, ask your mobile operator to block the SIM and ask the police to record the IMEI.",
+    "Keep evidence safe: photos, medical papers, messages, call records, receipts and names/contacts of witnesses.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "assault_hurt": {
+   "label": "Physical assault / Hurt",
+   "kw_en": [
+    "beat me",
+    "beaten",
+    "beat up",
+    "assault",
+    "attacked",
+    "hit me",
+    "injured",
+    "injury",
+    "fight",
+    "punched",
+    "stabbed",
+    "slapped",
+    "hurt me",
+    "bleeding"
+   ],
+   "kw_bn": [
+    "মারধর",
+    "মারামারি",
+    "আঘাত",
+    "হামলা",
+    "জখম",
+    "পিটিয়ে",
+    "কুপিয়ে"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "319"
+    ],
+    [
+     "Penal Code 1860",
+     "320"
+    ],
+    [
+     "Penal Code 1860",
+     "323"
+    ],
+    [
+     "Penal Code 1860",
+     "325"
+    ],
+    [
+     "Penal Code 1860",
+     "351"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Get medical treatment first and ask the doctor to write down every injury (keep the prescription and medical certificate).",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer.",
+    "Keep evidence safe: photos, medical papers, messages, call records, receipts and names/contacts of witnesses.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "murder_homicide": {
+   "label": "Murder / Attempt to murder / Death by negligence",
+   "kw_en": [
+    "murder",
+    "killed",
+    "kill him",
+    "died after",
+    "attempt to murder",
+    "tried to kill",
+    "death by negligence",
+    "homicide",
+    "shot",
+    "strangled"
+   ],
+   "kw_bn": [
+    "খুন",
+    "হত্যা",
+    "মেরে ফেলার চেষ্টা",
+    "হত্যার চেষ্টা",
+    "মৃত্যু"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "299"
+    ],
+    [
+     "Penal Code 1860",
+     "300"
+    ],
+    [
+     "Penal Code 1860",
+     "302"
+    ],
+    [
+     "Penal Code 1860",
+     "304"
+    ],
+    [
+     "Penal Code 1860",
+     "304A"
+    ],
+    [
+     "Penal Code 1860",
+     "307"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Call 999 immediately if anyone is in danger or injured; do not disturb the scene.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer. A family member or witness can be the informant.",
+    "Do not move or clean the place where it happened. Note names of witnesses.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "threat_intimidation": {
+   "label": "Threat / Intimidation / Blackmail",
+   "kw_en": [
+    "threatened",
+    "threat",
+    "threatening",
+    "blackmail",
+    "extort",
+    "extortion",
+    "intimidate",
+    "warned me",
+    "will kill you",
+    "tola",
+    "chanda"
+   ],
+   "kw_bn": [
+    "হুমকি",
+    "ভয় দেখ",
+    "চাঁদা",
+    "ব্ল্যাকমেইল",
+    "প্রাণনাশ"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "383"
+    ],
+    [
+     "Penal Code 1860",
+     "503"
+    ],
+    [
+     "Penal Code 1860",
+     "506"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Take screenshots or record calls/messages as proof of the threat, with date and time.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer. If you feel in immediate danger, call 999.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "sexual_harassment_women": {
+   "label": "Sexual harassment / Eve-teasing",
+   "kw_en": [
+    "touched me",
+    "inappropriately",
+    "eve teasing",
+    "eve-teasing",
+    "molest",
+    "harass",
+    "harassed",
+    "harassment",
+    "stalk",
+    "stalking",
+    "groped",
+    "catcall",
+    "modesty",
+    "indecent"
+   ],
+   "kw_bn": [
+    "উত্যক্ত",
+    "ইভ টিজিং",
+    "যৌন হয়রানি",
+    "স্পর্শ",
+    "অশালীন",
+    "পিছু নেয়"
+   ],
+   "laws": [
+    [
+     "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+     "10"
+    ],
+    [
+     "Penal Code 1860",
+     "354"
+    ],
+    [
+     "Penal Code 1860",
+     "509"
+    ]
+   ],
+   "articles": [
+    "27",
+    "28",
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Move to a safe place. Call 999 if in danger, or the women and children helpline 109.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer. You can also ask for a woman officer and a medical examination if needed.",
+    "Keep evidence safe: photos, medical papers, messages, call records, receipts and names/contacts of witnesses.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "rape_sexual_violence": {
+   "label": "Rape / Sexual violence",
+   "kw_en": [
+    "rape",
+    "raped",
+    "sexually assaulted",
+    "sexual assault",
+    "forced me sexually"
+   ],
+   "kw_bn": [
+    "ধর্ষণ",
+    "যৌন নির্যাতন",
+    "ধর্ষণের চেষ্টা"
+   ],
+   "laws": [
+    [
+     "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+     "9"
+    ],
+    [
+     "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+     "10"
+    ]
+   ],
+   "articles": [
+    "27",
+    "28",
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Your safety comes first. Call 999 or the helpline 109 and go to a safe person or place.",
+    "Do not wash or change clothes before the medical examination if you can avoid it; evidence matters. Go to a government hospital (One-Stop Crisis Centre / OCC where available) for examination and treatment.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "dowry_domestic_violence": {
+   "label": "Dowry / Domestic violence",
+   "kw_en": [
+    "dowry",
+    "husband beats",
+    "husband beat",
+    "in-laws",
+    "domestic violence",
+    "torture by husband",
+    "family demands money",
+    "husband torture"
+   ],
+   "kw_bn": [
+    "যৌতুক",
+    "স্বামী মারধর",
+    "শ্বশুর বাড়ি",
+    "পারিবারিক সহিংসতা",
+    "স্বামী নির্যাতন"
+   ],
+   "laws": [
+    [
+     "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+     "11"
+    ],
+    [
+     "Domestic Violence (Prevention and Protection) Act 2010",
+     "General"
+    ],
+    [
+     "Penal Code 1860",
+     "323"
+    ]
+   ],
+   "articles": [
+    "27",
+    "28",
+    "31",
+    "32"
+   ],
+   "steps": [
+    "If you are in danger, go to a safe place and call 999 or the helpline 109.",
+    "Get medical treatment for any injury and keep the medical papers.",
+    "You can file a case at the police station or apply to the court for a protection order under the Domestic Violence Act.",
+    "Keep evidence safe: photos, medical papers, messages, call records, receipts and names/contacts of witnesses.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "fraud_cheating": {
+   "label": "Fraud / Cheating / Breach of trust",
+   "kw_en": [
+    "cheated",
+    "cheating",
+    "fraud",
+    "scam",
+    "scammed",
+    "conned",
+    "fake job",
+    "job abroad",
+    "took money",
+    "deceived",
+    "forged",
+    "forgery",
+    "did not return my money",
+    "breach of trust",
+    "embezzle"
+   ],
+   "kw_bn": [
+    "প্রতারণা",
+    "ঠকিয়ে",
+    "জালিয়াতি",
+    "টাকা নিয়ে",
+    "বিদেশে চাকরি",
+    "আত্মসাৎ",
+    "বিশ্বাসভঙ্গ"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "403"
+    ],
+    [
+     "Penal Code 1860",
+     "406"
+    ],
+    [
+     "Penal Code 1860",
+     "415"
+    ],
+    [
+     "Penal Code 1860",
+     "420"
+    ],
+    [
+     "Penal Code 1860",
+     "463"
+    ]
+   ],
+   "articles": [
+    "31",
+    "42"
+   ],
+   "steps": [
+    "Collect all proof: receipts, bank/bKash/Nagad transaction records, chats, contracts and the person's identity details.",
+    "Send a written demand for return of the money if safe to do so, and keep a copy.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "cyber_crime": {
+   "label": "Cyber crime / Online harassment",
+   "kw_en": [
+    "facebook",
+    "online",
+    "hacked",
+    "hack",
+    "cyber",
+    "fake id",
+    "fake profile",
+    "private photo",
+    "private photos",
+    "leaked",
+    "morphed",
+    "social media",
+    "whatsapp",
+    "internet",
+    "blackmail online",
+    "phishing",
+    "bkash fraud"
+   ],
+   "kw_bn": [
+    "ফেসবুক",
+    "সাইবার",
+    "হ্যাক",
+    "ফেক আইডি",
+    "ছবি ছড়িয়ে",
+    "অনলাইনে",
+    "সামাজিক যোগাযোগ"
+   ],
+   "laws": [
+    [
+     "Cyber Security Act 2023",
+     "General"
+    ],
+    [
+     "Penal Code 1860",
+     "499"
+    ],
+    [
+     "Penal Code 1860",
+     "503"
+    ]
+   ],
+   "articles": [
+    "39",
+    "43"
+   ],
+   "steps": [
+    "Take screenshots with date/time and copy the profile or post links BEFORE reporting; do not delete the evidence.",
+    "Report the content or account to the platform to get it taken down.",
+    "Report to the police station or the police cyber unit and ask for the case to be recorded under the cyber law. Women can also call 109.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "defamation": {
+   "label": "Defamation / False allegations",
+   "kw_en": [
+    "defame",
+    "defaming",
+    "defamation",
+    "false rumour",
+    "false rumor",
+    "rumours",
+    "rumors",
+    "spreading lies",
+    "reputation",
+    "slander",
+    "libel"
+   ],
+   "kw_bn": [
+    "মানহানি",
+    "অপপ্রচার",
+    "গুজব",
+    "মিথ্যা অভিযোগ",
+    "সম্মানহানি"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "499"
+    ],
+    [
+     "Penal Code 1860",
+     "500"
+    ]
+   ],
+   "articles": [
+    "31",
+    "39"
+   ],
+   "steps": [
+    "Collect proof of the false statement (screenshots, recordings, witnesses) and who heard or read it.",
+    "Defamation is usually pursued by a complaint to the court; consult a lawyer on whether to file a case or send a legal notice first.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "illegal_arrest_police": {
+   "label": "Arrest / Police detention rights",
+   "kw_en": [
+    "arrested",
+    "arrest",
+    "detained",
+    "police took",
+    "police picked",
+    "remand",
+    "custody",
+    "not produced before magistrate",
+    "police torture",
+    "taken by police",
+    "without warrant",
+    "bail"
+   ],
+   "kw_bn": [
+    "গ্রেপ্তার",
+    "গ্রেফতার",
+    "আটক",
+    "থানায় নিয়ে",
+    "রিমান্ড",
+    "জামিন",
+    "পুলিশ নির্যাতন"
+   ],
+   "laws": [
+    [
+     "Code of Criminal Procedure 1898",
+     "54"
+    ],
+    [
+     "Code of Criminal Procedure 1898",
+     "61"
+    ],
+    [
+     "Code of Criminal Procedure 1898",
+     "497"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32",
+    "33",
+    "35"
+   ],
+   "steps": [
+    "An arrested person must be told the reason for arrest, may meet and be defended by a lawyer of their choice, and must be produced before a magistrate within 24 hours (Article 33).",
+    "Contact a lawyer immediately and note the time and place of the arrest and the names of the police officers if possible.",
+    "If the person is held beyond 24 hours or tortured, tell the lawyer so they can apply to the Magistrate or the High Court Division (Article 102 writ, e.g. habeas corpus). Torture is prohibited by Article 35(5).",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "land_property_dispute": {
+   "label": "Land / Property dispute",
+   "kw_en": [
+    "land",
+    "occupied my land",
+    "land grab",
+    "grabbed",
+    "encroach",
+    "trespass",
+    "property dispute",
+    "mutation",
+    "deed",
+    "khatian",
+    "evict",
+    "illegally occupied",
+    "boundary",
+    "inheritance"
+   ],
+   "kw_bn": [
+    "জমি",
+    "দখল",
+    "দলিল",
+    "খতিয়ান",
+    "নামজারি",
+    "বেদখল",
+    "উত্তরাধিকার",
+    "সম্পত্তি"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "441"
+    ],
+    [
+     "Penal Code 1860",
+     "447"
+    ],
+    [
+     "Transfer of Property Act 1882",
+     "General"
+    ]
+   ],
+   "articles": [
+    "31",
+    "42"
+   ],
+   "steps": [
+    "Collect your land papers (deed, khatian/record of rights, mutation, tax receipts) and take dated photos of the land.",
+    "If someone has entered or taken the land by force, report to the police and also consult a lawyer about a civil case (injunction or recovery of possession) in the civil court.",
+    "Check land records and mutation status at the local land office (AC Land / Union Land Office).",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "labour_dispute": {
+   "label": "Labour / Wage dispute",
+   "kw_en": [
+    "salary",
+    "wages",
+    "not paid",
+    "unpaid",
+    "terminated",
+    "fired",
+    "laid off",
+    "employer",
+    "factory worker",
+    "overtime",
+    "workplace",
+    "job termination",
+    "dismissed",
+    "bonus"
+   ],
+   "kw_bn": [
+    "বেতন",
+    "মজুরি",
+    "চাকরিচ্যুত",
+    "ছাঁটাই",
+    "মালিক",
+    "কারখানা",
+    "ওভারটাইম",
+    "শ্রমিক"
+   ],
+   "laws": [
+    [
+     "Bangladesh Labour Act 2006",
+     "General"
+    ]
+   ],
+   "articles": [
+    "34",
+    "40"
+   ],
+   "steps": [
+    "Keep your appointment letter, ID card, pay slips, attendance records and any messages about wages.",
+    "Make a written complaint to the employer, then approach the Department of Inspection for Factories and Establishments (DIFE) or the Labour Court.",
+    "Workers' organisations and legal aid can also help. If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "consumer_issue": {
+   "label": "Consumer rights",
+   "kw_en": [
+    "adulterated",
+    "expired",
+    "overcharged",
+    "fake product",
+    "defective",
+    "consumer",
+    "sold above price",
+    "wrong weight",
+    "refund"
+   ],
+   "kw_bn": [
+    "ভেজাল",
+    "মেয়াদোত্তীর্ণ",
+    "বেশি দাম",
+    "ক্রেতা",
+    "ভোক্তা",
+    "নকল পণ্য"
+   ],
+   "laws": [
+    [
+     "Consumer Rights Protection Act 2009",
+     "General"
+    ]
+   ],
+   "articles": [
+    "27",
+    "31"
+   ],
+   "steps": [
+    "Keep the receipt, product, packaging and photos.",
+    "Complain to the Directorate of National Consumer Rights Protection (hotline 16121) or the District Consumer office.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "kidnapping": {
+   "label": "Kidnapping / Wrongful confinement",
+   "kw_en": [
+    "kidnap",
+    "kidnapped",
+    "abducted",
+    "abduction",
+    "missing",
+    "confined",
+    "locked me",
+    "held captive",
+    "trafficked",
+    "trafficking"
+   ],
+   "kw_bn": [
+    "অপহরণ",
+    "নিখোঁজ",
+    "আটকে রাখা",
+    "পাচার",
+    "বন্দি"
+   ],
+   "laws": [
+    [
+     "Penal Code 1860",
+     "341"
+    ],
+    [
+     "Penal Code 1860",
+     "342"
+    ],
+    [
+     "Penal Code 1860",
+     "363"
+    ],
+    [
+     "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+     "9"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32",
+    "34"
+   ],
+   "steps": [
+    "Call 999 immediately; time is critical. Give the last known place, clothes, photos and phone number of the person.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer. Child or woman missing cases are treated seriously; also call 109 if relevant.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "road_accident": {
+   "label": "Road accident / Negligent driving",
+   "kw_en": [
+    "accident",
+    "road accident",
+    "hit by a bus",
+    "hit by a car",
+    "run over",
+    "negligent driving",
+    "rash driving",
+    "knocked down",
+    "bike accident"
+   ],
+   "kw_bn": [
+    "দুর্ঘটনা",
+    "সড়ক দুর্ঘটনা",
+    "চাপা",
+    "বেপরোয়া গাড়ি",
+    "গাড়ির ধাক্কা"
+   ],
+   "laws": [
+    [
+     "Road Transport Act 2018",
+     "General"
+    ],
+    [
+     "Penal Code 1860",
+     "304A"
+    ],
+    [
+     "Penal Code 1860",
+     "323"
+    ]
+   ],
+   "articles": [
+    "31",
+    "32"
+   ],
+   "steps": [
+    "Call 999 and get injured people to a hospital first.",
+    "Note the vehicle number, driver details and witnesses; take photos of the scene.",
+    "Report it at the nearest police station (GD or FIR). For a serious (cognizable) offence the police must record your information (CrPC Section 154). If they refuse, approach the Superintendent of Police or file a complaint before the Magistrate through a lawyer. Keep hospital papers for compensation claims.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  },
+  "drugs": {
+   "label": "Narcotics / Drug offence",
+   "kw_en": [
+    "drugs",
+    "yaba",
+    "narcotics",
+    "heroin",
+    "cannabis",
+    "ganja",
+    "drug dealer",
+    "phensedyl",
+    "drug case"
+   ],
+   "kw_bn": [
+    "মাদক",
+    "ইয়াবা",
+    "গাঁজা",
+    "ফেনসিডিল",
+    "হেরোইন"
+   ],
+   "laws": [
+    [
+     "Narcotics Control Act 2018",
+     "General"
+    ],
+    [
+     "Code of Criminal Procedure 1898",
+     "54"
+    ]
+   ],
+   "articles": [
+    "31",
+    "33",
+    "35"
+   ],
+   "steps": [
+    "If you or a family member has been arrested, contact a lawyer at once; the right to a lawyer and to be produced before a magistrate within 24 hours applies (Article 33).",
+    "To report drug dealing, contact the Department of Narcotics Control (DNC) hotline 16358 or the police. For addiction treatment, DNC runs treatment centres.",
+    "If you cannot afford a lawyer, call the government legal aid helpline 16430."
+   ]
+  }
+ },
+ "emergency_keywords": {
+  "en": [
+   "kill me",
+   "will kill",
+   "being killed",
+   "bleeding",
+   "unconscious",
+   "rape",
+   "raped",
+   "kidnapped",
+   "abducted",
+   "gun",
+   "right now",
+   "in danger",
+   "help me",
+   "dying",
+   "attack"
+  ],
+  "bn": [
+   "মেরে ফেল",
+   "রক্ত",
+   "অজ্ঞান",
+   "ধর্ষণ",
+   "অপহরণ",
+   "বিপদে",
+   "বাঁচাও",
+   "এখনই"
+  ]
+ }
+}

@@ -1,0 +1,652 @@
+[
+ {
+  "id": "Constitution-26",
+  "law": "Constitution of Bangladesh",
+  "section_no": "26",
+  "title": "Laws inconsistent with fundamental rights",
+  "doc_type": "constitution",
+  "text": "Any law that conflicts with the fundamental rights guaranteed in Part III of the Constitution is void to the extent of the inconsistency.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-27",
+  "law": "Constitution of Bangladesh",
+  "section_no": "27",
+  "title": "Equality before law",
+  "doc_type": "constitution",
+  "text": "All citizens are equal before law and are entitled to equal protection of law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-28",
+  "law": "Constitution of Bangladesh",
+  "section_no": "28",
+  "title": "Discrimination on grounds of religion, etc.",
+  "doc_type": "constitution",
+  "text": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex or place of birth. Women have equal rights with men in all spheres of State and public life.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-29",
+  "law": "Constitution of Bangladesh",
+  "section_no": "29",
+  "title": "Equality of opportunity in public employment",
+  "doc_type": "constitution",
+  "text": "There shall be equality of opportunity for all citizens in respect of employment or office in the service of the Republic.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-31",
+  "law": "Constitution of Bangladesh",
+  "section_no": "31",
+  "title": "Right to protection of law",
+  "doc_type": "constitution",
+  "text": "Every person is entitled to the protection of law and to be treated in accordance with law. No action detrimental to life, liberty, body, reputation or property may be taken except in accordance with law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-32",
+  "law": "Constitution of Bangladesh",
+  "section_no": "32",
+  "title": "Protection of right to life and personal liberty",
+  "doc_type": "constitution",
+  "text": "No person shall be deprived of life or personal liberty save in accordance with law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-33",
+  "law": "Constitution of Bangladesh",
+  "section_no": "33",
+  "title": "Safeguards as to arrest and detention",
+  "doc_type": "constitution",
+  "text": "An arrested person must be informed of the grounds of arrest as soon as may be, has the right to consult and be defended by a lawyer of choice, and must be produced before the nearest magistrate within twenty-four hours of arrest (excluding travel time). Preventive detention is subject to strict safeguards.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-34",
+  "law": "Constitution of Bangladesh",
+  "section_no": "34",
+  "title": "Prohibition of forced labour",
+  "doc_type": "constitution",
+  "text": "All forms of forced labour are prohibited and any contravention is an offence punishable by law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-35",
+  "law": "Constitution of Bangladesh",
+  "section_no": "35",
+  "title": "Protection in respect of trial and punishment",
+  "doc_type": "constitution",
+  "text": "Protects against retrospective punishment and double punishment, guarantees a speedy and public trial by an independent and impartial court, prohibits compelled self-incrimination, and prohibits torture or cruel, inhuman or degrading punishment or treatment.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-36",
+  "law": "Constitution of Bangladesh",
+  "section_no": "36",
+  "title": "Freedom of movement",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to move freely throughout Bangladesh, to reside and settle in any place, and to leave and re-enter the country, subject to reasonable restrictions.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-37",
+  "law": "Constitution of Bangladesh",
+  "section_no": "37",
+  "title": "Freedom of assembly",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to assemble and participate in public meetings and processions peacefully and without arms, subject to reasonable restrictions imposed by law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-38",
+  "law": "Constitution of Bangladesh",
+  "section_no": "38",
+  "title": "Freedom of association",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to form associations or unions, subject to reasonable restrictions imposed by law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-39",
+  "law": "Constitution of Bangladesh",
+  "section_no": "39",
+  "title": "Freedom of thought, conscience and speech",
+  "doc_type": "constitution",
+  "text": "Freedom of thought and conscience, freedom of speech and expression, and freedom of the press are guaranteed, subject to reasonable restrictions imposed by law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-40",
+  "law": "Constitution of Bangladesh",
+  "section_no": "40",
+  "title": "Freedom of profession or occupation",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to enter upon any lawful profession or occupation and to conduct any lawful trade or business, subject to qualifications prescribed by law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-41",
+  "law": "Constitution of Bangladesh",
+  "section_no": "41",
+  "title": "Freedom of religion",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to profess, practise or propagate any religion, and every religious community has the right to establish and maintain its religious institutions, subject to law, public order and morality.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-42",
+  "law": "Constitution of Bangladesh",
+  "section_no": "42",
+  "title": "Rights to property",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to acquire, hold, transfer or otherwise dispose of property. No property shall be compulsorily acquired or requisitioned save by authority of law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-43",
+  "law": "Constitution of Bangladesh",
+  "section_no": "43",
+  "title": "Protection of home and correspondence",
+  "doc_type": "constitution",
+  "text": "Every citizen has the right to be secured in his home against entry, search and seizure, and to the privacy of his correspondence and other means of communication, subject to reasonable restrictions imposed by law.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Constitution-44",
+  "law": "Constitution of Bangladesh",
+  "section_no": "44",
+  "title": "Enforcement of fundamental rights",
+  "doc_type": "constitution",
+  "text": "The right to move the High Court Division under Article 102 for the enforcement of the fundamental rights is guaranteed.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-299",
+  "law": "Penal Code 1860",
+  "section_no": "299",
+  "title": "Culpable homicide",
+  "doc_type": "statute",
+  "text": "Causing death by an act done with the intention or knowledge that it is likely to cause death.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-300",
+  "law": "Penal Code 1860",
+  "section_no": "300",
+  "title": "Murder",
+  "doc_type": "statute",
+  "text": "Defines when culpable homicide amounts to murder.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-302",
+  "law": "Penal Code 1860",
+  "section_no": "302",
+  "title": "Punishment for murder",
+  "doc_type": "statute",
+  "text": "Sets the punishment for the offence of murder.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-304",
+  "law": "Penal Code 1860",
+  "section_no": "304",
+  "title": "Culpable homicide not amounting to murder",
+  "doc_type": "statute",
+  "text": "Punishment for culpable homicide that does not amount to murder.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-304A",
+  "law": "Penal Code 1860",
+  "section_no": "304A",
+  "title": "Causing death by negligence",
+  "doc_type": "statute",
+  "text": "Causing death by a rash or negligent act not amounting to culpable homicide.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-307",
+  "law": "Penal Code 1860",
+  "section_no": "307",
+  "title": "Attempt to murder",
+  "doc_type": "statute",
+  "text": "Doing an act with such intention or knowledge and in such circumstances that, if death were caused, it would be murder.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-319",
+  "law": "Penal Code 1860",
+  "section_no": "319",
+  "title": "Hurt",
+  "doc_type": "statute",
+  "text": "Defines hurt as causing bodily pain, disease or infirmity to any person.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-320",
+  "law": "Penal Code 1860",
+  "section_no": "320",
+  "title": "Grievous hurt",
+  "doc_type": "statute",
+  "text": "Defines grievous hurt, such as loss of sight or hearing, fracture, dislocation, or hurt that endangers life.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-323",
+  "law": "Penal Code 1860",
+  "section_no": "323",
+  "title": "Punishment for voluntarily causing hurt",
+  "doc_type": "statute",
+  "text": "Punishment for voluntarily causing hurt other than grievous hurt.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-325",
+  "law": "Penal Code 1860",
+  "section_no": "325",
+  "title": "Punishment for voluntarily causing grievous hurt",
+  "doc_type": "statute",
+  "text": "Punishment for voluntarily causing grievous hurt.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-341",
+  "law": "Penal Code 1860",
+  "section_no": "341",
+  "title": "Wrongful restraint",
+  "doc_type": "statute",
+  "text": "Voluntarily obstructing a person so as to prevent him from proceeding in a direction in which he has a right to proceed.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-342",
+  "law": "Penal Code 1860",
+  "section_no": "342",
+  "title": "Wrongful confinement",
+  "doc_type": "statute",
+  "text": "Wrongfully restraining a person in such a manner as to prevent him from proceeding beyond certain limits.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-351",
+  "law": "Penal Code 1860",
+  "section_no": "351",
+  "title": "Assault",
+  "doc_type": "statute",
+  "text": "Making a gesture or preparation intending or knowing it likely to cause another person to apprehend that criminal force is about to be used.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-354",
+  "law": "Penal Code 1860",
+  "section_no": "354",
+  "title": "Assault on woman to outrage modesty",
+  "doc_type": "statute",
+  "text": "Assaulting or using criminal force on a woman intending to outrage or knowing it likely to outrage her modesty.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-363",
+  "law": "Penal Code 1860",
+  "section_no": "363",
+  "title": "Punishment for kidnapping",
+  "doc_type": "statute",
+  "text": "Punishment for kidnapping from Bangladesh or from lawful guardianship.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-378",
+  "law": "Penal Code 1860",
+  "section_no": "378",
+  "title": "Theft",
+  "doc_type": "statute",
+  "text": "Dishonestly taking movable property out of the possession of any person without that person's consent.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-379",
+  "law": "Penal Code 1860",
+  "section_no": "379",
+  "title": "Punishment for theft",
+  "doc_type": "statute",
+  "text": "Sets the punishment for theft.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-383",
+  "law": "Penal Code 1860",
+  "section_no": "383",
+  "title": "Extortion",
+  "doc_type": "statute",
+  "text": "Intentionally putting a person in fear of injury in order to dishonestly induce delivery of property or valuable security.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-390",
+  "law": "Penal Code 1860",
+  "section_no": "390",
+  "title": "Robbery",
+  "doc_type": "statute",
+  "text": "Theft or extortion becomes robbery when accompanied by hurt, wrongful restraint or fear of instant death, hurt or restraint. Snatching property by force falls here.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-392",
+  "law": "Penal Code 1860",
+  "section_no": "392",
+  "title": "Punishment for robbery",
+  "doc_type": "statute",
+  "text": "Sets the punishment for robbery.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-395",
+  "law": "Penal Code 1860",
+  "section_no": "395",
+  "title": "Punishment for dacoity",
+  "doc_type": "statute",
+  "text": "Punishment for dacoity - robbery committed conjointly by five or more persons.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-403",
+  "law": "Penal Code 1860",
+  "section_no": "403",
+  "title": "Dishonest misappropriation of property",
+  "doc_type": "statute",
+  "text": "Dishonestly misappropriating or converting to one's own use any movable property.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-406",
+  "law": "Penal Code 1860",
+  "section_no": "406",
+  "title": "Punishment for criminal breach of trust",
+  "doc_type": "statute",
+  "text": "Punishment where a person entrusted with property dishonestly misappropriates it or uses it in violation of the trust.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-415",
+  "law": "Penal Code 1860",
+  "section_no": "415",
+  "title": "Cheating",
+  "doc_type": "statute",
+  "text": "Deceiving a person and fraudulently or dishonestly inducing him to deliver property or to do or omit something he would not otherwise do.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-420",
+  "law": "Penal Code 1860",
+  "section_no": "420",
+  "title": "Cheating and dishonestly inducing delivery of property",
+  "doc_type": "statute",
+  "text": "Punishment for cheating and thereby dishonestly inducing delivery of property or the making, altering or destroying of valuable security.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-441",
+  "law": "Penal Code 1860",
+  "section_no": "441",
+  "title": "Criminal trespass",
+  "doc_type": "statute",
+  "text": "Entering on property in the possession of another with intent to commit an offence or to intimidate, insult or annoy the person in possession.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-447",
+  "law": "Penal Code 1860",
+  "section_no": "447",
+  "title": "Punishment for criminal trespass",
+  "doc_type": "statute",
+  "text": "Sets the punishment for criminal trespass.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-463",
+  "law": "Penal Code 1860",
+  "section_no": "463",
+  "title": "Forgery",
+  "doc_type": "statute",
+  "text": "Making a false document or electronic record with intent to cause damage or injury, support a claim or title, or commit fraud.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-499",
+  "law": "Penal Code 1860",
+  "section_no": "499",
+  "title": "Defamation",
+  "doc_type": "statute",
+  "text": "Making or publishing any imputation concerning a person intending to harm, or knowing it will harm, his reputation.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-500",
+  "law": "Penal Code 1860",
+  "section_no": "500",
+  "title": "Punishment for defamation",
+  "doc_type": "statute",
+  "text": "Sets the punishment for defamation.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-503",
+  "law": "Penal Code 1860",
+  "section_no": "503",
+  "title": "Criminal intimidation",
+  "doc_type": "statute",
+  "text": "Threatening a person with injury to his person, reputation or property with intent to cause alarm.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-506",
+  "law": "Penal Code 1860",
+  "section_no": "506",
+  "title": "Punishment for criminal intimidation",
+  "doc_type": "statute",
+  "text": "Sets the punishment for criminal intimidation, with a higher punishment where the threat is to cause death or grievous hurt.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Penal_Code_1-509",
+  "law": "Penal Code 1860",
+  "section_no": "509",
+  "title": "Word or gesture insulting the modesty of a woman",
+  "doc_type": "statute",
+  "text": "Uttering any word, making any sound or gesture, or exhibiting any object intending to insult the modesty of a woman or intruding upon her privacy.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Code_of_Crim-54",
+  "law": "Code of Criminal Procedure 1898",
+  "section_no": "54",
+  "title": "Arrest without warrant",
+  "doc_type": "procedure",
+  "text": "Describes when police may arrest a person without a magistrate's warrant.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Code_of_Crim-61",
+  "law": "Code of Criminal Procedure 1898",
+  "section_no": "61",
+  "title": "Person arrested not to be detained more than twenty-four hours",
+  "doc_type": "procedure",
+  "text": "A person arrested without warrant must not be detained longer than twenty-four hours without a magistrate's order, excluding travel time.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Code_of_Crim-154",
+  "law": "Code of Criminal Procedure 1898",
+  "section_no": "154",
+  "title": "Information in cognizable cases (FIR)",
+  "doc_type": "procedure",
+  "text": "Information about a cognizable offence given to the officer in charge of a police station must be recorded in writing and read over to the informant. This is the basis of the First Information Report (FIR).",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Code_of_Crim-497",
+  "law": "Code of Criminal Procedure 1898",
+  "section_no": "497",
+  "title": "Bail in non-bailable cases",
+  "doc_type": "procedure",
+  "text": "Describes when a person accused of a non-bailable offence may be released on bail.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Nari_o_Shish-9",
+  "law": "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+  "section_no": "9",
+  "title": "Punishment for rape and related offences",
+  "doc_type": "statute",
+  "text": "Provides the punishment for rape and for offences connected with rape under the special law for women and children.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Nari_o_Shish-10",
+  "law": "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+  "section_no": "10",
+  "title": "Sexual oppression / sexual harassment",
+  "doc_type": "statute",
+  "text": "Provides punishment for sexual oppression, including touching a woman or child's body or sexual harassment with indecent intent.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Nari_o_Shish-11",
+  "law": "Nari o Shishu Nirjatan Daman Ain 2000 (Women and Children Repression Prevention Act)",
+  "section_no": "11",
+  "title": "Dowry-related death and hurt",
+  "doc_type": "statute",
+  "text": "Provides punishment for causing death or hurt, or attempting to do so, for dowry.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Domestic_Vio-General",
+  "law": "Domestic Violence (Prevention and Protection) Act 2010",
+  "section_no": "General",
+  "title": "Domestic violence protection",
+  "doc_type": "statute",
+  "text": "Protects against physical, psychological, sexual and economic abuse within the family; allows protection orders, residence orders and compensation through the court.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Cyber_Securi-General",
+  "law": "Cyber Security Act 2023",
+  "section_no": "General",
+  "title": "Cyber offences",
+  "doc_type": "statute",
+  "text": "Covers cyber-related offences such as unauthorised access, publishing false or defamatory material online, identity fraud and sharing private images without consent. Load the official text for exact sections.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Bangladesh_L-General",
+  "law": "Bangladesh Labour Act 2006",
+  "section_no": "General",
+  "title": "Wages, termination and workers' rights",
+  "doc_type": "statute",
+  "text": "Governs wages, working hours, leave, termination and compensation, safety and workers' rights. Load the official text for exact sections.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Transfer_of_-General",
+  "law": "Transfer of Property Act 1882",
+  "section_no": "General",
+  "title": "Transfer of property",
+  "doc_type": "statute",
+  "text": "Governs sale, mortgage, lease, exchange and gift of immovable property. Load the official text for exact sections.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Consumer_Rig-General",
+  "law": "Consumer Rights Protection Act 2009",
+  "section_no": "General",
+  "title": "Consumer rights",
+  "doc_type": "statute",
+  "text": "Protects consumers against adulteration, selling above the fixed price, fraudulent or defective goods and services. Complaints can be made to the Directorate of National Consumer Rights Protection.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Narcotics_Co-General",
+  "law": "Narcotics Control Act 2018",
+  "section_no": "General",
+  "title": "Narcotics control",
+  "doc_type": "statute",
+  "text": "Governs possession, sale, production and use of narcotics. Load the official text for exact sections.",
+  "source": "seed",
+  "official_text": false
+ },
+ {
+  "id": "Road_Transpo-General",
+  "law": "Road Transport Act 2018",
+  "section_no": "General",
+  "title": "Road transport and traffic offences",
+  "doc_type": "statute",
+  "text": "Governs driving licences, traffic offences and penalties for negligent driving and accidents. Load the official text for exact sections.",
+  "source": "seed",
+  "official_text": false
+ }
+]
